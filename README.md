@@ -1,4 +1,4 @@
-# IndCurr
+# Cnet
 Resnet34 trained for Indian Currency Recognition
 
 ### Inference Examples 
